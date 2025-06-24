@@ -1,0 +1,7 @@
+D:\api\API\Example 2 Get Screen Resolution\Example 2 Get Screen Resolution\bin\Debug\Example 2 Get Screen Resolution.exe.config
+D:\api\API\Example 2 Get Screen Resolution\Example 2 Get Screen Resolution\bin\Debug\Example 2 Get Screen Resolution.exe
+D:\api\API\Example 2 Get Screen Resolution\Example 2 Get Screen Resolution\bin\Debug\Example 2 Get Screen Resolution.pdb
+D:\api\API\Example 2 Get Screen Resolution\Example 2 Get Screen Resolution\obj\Debug\Example 2 Get Screen Resolution.csproj.AssemblyReference.cache
+D:\api\API\Example 2 Get Screen Resolution\Example 2 Get Screen Resolution\obj\Debug\Example 2 Get Screen Resolution.csproj.CoreCompileInputs.cache
+D:\api\API\Example 2 Get Screen Resolution\Example 2 Get Screen Resolution\obj\Debug\Example 2 Get Screen Resolution.exe
+D:\api\API\Example 2 Get Screen Resolution\Example 2 Get Screen Resolution\obj\Debug\Example 2 Get Screen Resolution.pdb
