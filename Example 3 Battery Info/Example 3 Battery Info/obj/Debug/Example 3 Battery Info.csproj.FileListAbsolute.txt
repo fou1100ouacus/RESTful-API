@@ -1,0 +1,7 @@
+D:\api\API\Example 3 Battery Info\Example 3 Battery Info\bin\Debug\Example 3 Battery Info.exe.config
+D:\api\API\Example 3 Battery Info\Example 3 Battery Info\bin\Debug\Example 3 Battery Info.exe
+D:\api\API\Example 3 Battery Info\Example 3 Battery Info\bin\Debug\Example 3 Battery Info.pdb
+D:\api\API\Example 3 Battery Info\Example 3 Battery Info\obj\Debug\Example 3 Battery Info.csproj.AssemblyReference.cache
+D:\api\API\Example 3 Battery Info\Example 3 Battery Info\obj\Debug\Example 3 Battery Info.csproj.CoreCompileInputs.cache
+D:\api\API\Example 3 Battery Info\Example 3 Battery Info\obj\Debug\Example 3 Battery Info.exe
+D:\api\API\Example 3 Battery Info\Example 3 Battery Info\obj\Debug\Example 3 Battery Info.pdb
