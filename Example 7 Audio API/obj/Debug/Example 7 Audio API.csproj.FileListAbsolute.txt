@@ -1,0 +1,28 @@
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\Example 7 Audio API.exe.config
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\Example 7 Audio API.exe
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\Example 7 Audio API.pdb
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\Microsoft.Win32.Registry.dll
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.Asio.dll
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.Core.dll
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.dll
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.Midi.dll
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.Wasapi.dll
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.WinForms.dll
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.WinMM.dll
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\System.Security.AccessControl.dll
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\System.Security.Principal.Windows.dll
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\Microsoft.Win32.Registry.xml
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.xml
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.Asio.xml
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.Core.xml
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.Midi.xml
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.Wasapi.xml
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.WinForms.xml
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\NAudio.WinMM.xml
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\System.Security.AccessControl.xml
+D:\api\API\Example 7 Audio API\Example 7 Audio API\bin\Debug\System.Security.Principal.Windows.xml
+D:\api\API\Example 7 Audio API\Example 7 Audio API\obj\Debug\Example 7 Audio API.csproj.AssemblyReference.cache
+D:\api\API\Example 7 Audio API\Example 7 Audio API\obj\Debug\Example 7 Audio API.csproj.CoreCompileInputs.cache
+D:\api\API\Example 7 Audio API\Example 7 Audio API\obj\Debug\Example .CCD59782.Up2Date
+D:\api\API\Example 7 Audio API\Example 7 Audio API\obj\Debug\Example 7 Audio API.exe
+D:\api\API\Example 7 Audio API\Example 7 Audio API\obj\Debug\Example 7 Audio API.pdb
