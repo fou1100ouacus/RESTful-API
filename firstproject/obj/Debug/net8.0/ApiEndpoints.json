@@ -1,0 +1,53 @@
+[
+  {
+    "ContainingType": "firstproject.Controllers.MyFirstProjectController",
+    "Method": "GetMyName",
+    "RelativePath": "api/MyFirstProject",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "firstproject.Controllers.MyFirstProjectController",
+    "Method": "sum",
+    "RelativePath": "api/MyFirstProject/n1,nk2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "n1",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "n2",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
