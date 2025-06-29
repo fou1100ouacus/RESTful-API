@@ -1,0 +1,14 @@
+D:\Programming\API Code\Client Side Code for Passed Students\bin\Debug\net8.0\Client Side Code for Passed Students.exe
+D:\Programming\API Code\Client Side Code for Passed Students\bin\Debug\net8.0\Client Side Code for Passed Students.deps.json
+D:\Programming\API Code\Client Side Code for Passed Students\bin\Debug\net8.0\Client Side Code for Passed Students.runtimeconfig.json
+D:\Programming\API Code\Client Side Code for Passed Students\bin\Debug\net8.0\Client Side Code for Passed Students.dll
+D:\Programming\API Code\Client Side Code for Passed Students\bin\Debug\net8.0\Client Side Code for Passed Students.pdb
+D:\Programming\API Code\Client Side Code for Passed Students\obj\Debug\net8.0\Client Side Code for Passed Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\API Code\Client Side Code for Passed Students\obj\Debug\net8.0\Client Side Code for Passed Students.AssemblyInfoInputs.cache
+D:\Programming\API Code\Client Side Code for Passed Students\obj\Debug\net8.0\Client Side Code for Passed Students.AssemblyInfo.cs
+D:\Programming\API Code\Client Side Code for Passed Students\obj\Debug\net8.0\Client Side Code for Passed Students.csproj.CoreCompileInputs.cache
+D:\Programming\API Code\Client Side Code for Passed Students\obj\Debug\net8.0\Client Side Code for Passed Students.dll
+D:\Programming\API Code\Client Side Code for Passed Students\obj\Debug\net8.0\refint\Client Side Code for Passed Students.dll
+D:\Programming\API Code\Client Side Code for Passed Students\obj\Debug\net8.0\Client Side Code for Passed Students.pdb
+D:\Programming\API Code\Client Side Code for Passed Students\obj\Debug\net8.0\Client Side Code for Passed Students.genruntimeconfig.cache
+D:\Programming\API Code\Client Side Code for Passed Students\obj\Debug\net8.0\ref\Client Side Code for Passed Students.dll
