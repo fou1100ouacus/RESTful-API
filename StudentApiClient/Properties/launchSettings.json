@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StudentApiClient": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

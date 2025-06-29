@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nFlhSOmlP/g=",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\API Code\\StudentApiClient\\StudentApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
