@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Proj1 client side Code": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
