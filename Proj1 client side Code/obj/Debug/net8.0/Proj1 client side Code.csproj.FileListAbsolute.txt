@@ -1,0 +1,14 @@
+D:\Programming\API Code\Proj1 client side Code\bin\Debug\net8.0\Proj1 client side Code.exe
+D:\Programming\API Code\Proj1 client side Code\bin\Debug\net8.0\Proj1 client side Code.deps.json
+D:\Programming\API Code\Proj1 client side Code\bin\Debug\net8.0\Proj1 client side Code.runtimeconfig.json
+D:\Programming\API Code\Proj1 client side Code\bin\Debug\net8.0\Proj1 client side Code.dll
+D:\Programming\API Code\Proj1 client side Code\bin\Debug\net8.0\Proj1 client side Code.pdb
+D:\Programming\API Code\Proj1 client side Code\obj\Debug\net8.0\Proj1 client side Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\API Code\Proj1 client side Code\obj\Debug\net8.0\Proj1 client side Code.AssemblyInfoInputs.cache
+D:\Programming\API Code\Proj1 client side Code\obj\Debug\net8.0\Proj1 client side Code.AssemblyInfo.cs
+D:\Programming\API Code\Proj1 client side Code\obj\Debug\net8.0\Proj1 client side Code.csproj.CoreCompileInputs.cache
+D:\Programming\API Code\Proj1 client side Code\obj\Debug\net8.0\Proj1 client side Code.dll
+D:\Programming\API Code\Proj1 client side Code\obj\Debug\net8.0\refint\Proj1 client side Code.dll
+D:\Programming\API Code\Proj1 client side Code\obj\Debug\net8.0\Proj1 client side Code.pdb
+D:\Programming\API Code\Proj1 client side Code\obj\Debug\net8.0\Proj1 client side Code.genruntimeconfig.cache
+D:\Programming\API Code\Proj1 client side Code\obj\Debug\net8.0\ref\Proj1 client side Code.dll
